@@ -15,6 +15,8 @@ Clone this repository.
 
 https://github.com/YasCel/CodeReview2
 
+Github pages - http://yascel.github.io/CodeReview2/
+
 ## Technologies Used
 
 HTML
