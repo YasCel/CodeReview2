@@ -4,7 +4,7 @@ body {
 
 .all {
  width: 750px;
- margin:0 auto;
+ margin: 0 auto;
 }
 
 .header {
@@ -34,11 +34,13 @@ h1 {
 .column1 {
   float: left;
   background-color: #9c9;
-  width: 490px;
+  width: 470px;
+  padding:10px;
 }
 
 .column2 {
   background-color: #99c;
   float: right;
-  width: 260px;
+  width: 240px;
+  padding: 10px;
 }
