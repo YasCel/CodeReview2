@@ -1,28 +1,44 @@
+body {
+ background-color: #a7a09a;
+}
+
+.all {
+ width: 750px;
+ margin:0 auto;
+}
+
 .header {
-  background:#ddd;
+  padding:5px 10px;
+  background-color: #ddd;
+}
+
+h1 {
+ margin: 0;
 }
 
 .navigation {
-
+  padding: 5px 10px;
   background-color: #c99;
 }
 
 .navigation ul {
-
-  list-style:none;
-
+  list-style: none;
+  margin:0;
+  padding:0;
 }
 
 .navigation li {
-
   display: inline;
-
 }
 
 .column1 {
+  float: left;
   background-color: #9c9;
+  width: 490px;
 }
 
 .column2 {
   background-color: #99c;
+  float: right;
+  width: 260px;
 }
