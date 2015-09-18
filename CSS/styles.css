@@ -1,0 +1,20 @@
+.header {
+  background:#ddd;
+}
+
+.navigation {
+
+  background:#c99;
+}
+
+.navigation ul {
+
+  list-style:none;
+
+}
+
+.navigation li {
+
+  display: inline;
+
+}
