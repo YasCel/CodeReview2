@@ -4,7 +4,7 @@
 
 .navigation {
 
-  background:#c99;
+  background-color: #c99;
 }
 
 .navigation ul {
@@ -17,4 +17,12 @@
 
   display: inline;
 
+}
+
+.column1 {
+  background-color: #9c9;
+}
+
+.column2 {
+  background-color: #99c;
 }
